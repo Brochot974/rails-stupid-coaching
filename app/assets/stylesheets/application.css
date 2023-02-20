@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ #question {
+  border: red 2px solid;
+ }
